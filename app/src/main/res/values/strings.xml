@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BrinkGYM</string>
+    <string name="start_button">Start</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="qr_scanner">QR Scanner</string>
+    <string name="team_score">Team Score</string>
+    <string name="result_text_default">Please focus camera to QR code</string>
+
+</resources>

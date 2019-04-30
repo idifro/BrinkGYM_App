@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1006742457799",
+    "firebase_url": "https://gymbrink-d7e5d.firebaseio.com",
+    "project_id": "gymbrink-d7e5d",
+    "storage_bucket": "gymbrink-d7e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006742457799:android:738a5afa28653186",
+        "android_client_info": {
+          "package_name": "io.brink.brinkgym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006742457799-tq18ieqpv3ronaqbo6a8cb57qgegqjh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.brink.brinkgym",
+            "certificate_hash": "793c183292df64025f32711a8a5a81bb6f37be09"
+          }
+        },
+        {
+          "client_id": "1006742457799-b52fug3ilo4cbh0noqeh6etov6dhoc5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW6MnWvct0UXakzpvH92i7Ko8AuZ2PABs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006742457799-b52fug3ilo4cbh0noqeh6etov6dhoc5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
